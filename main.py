@@ -2,7 +2,7 @@
 
 #
 # File:         main.py
-# Author:       Tan Duc Mai
+# Author:       Tan Mai Tan Duc
 # Email:        tan.duc.work@gmail.com
 # Date:         25-Aug-21
 # Description:  Use Turtle graphics to draw a illustration of the Solar System.
